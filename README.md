@@ -45,6 +45,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Zishan-git/Zishan-git/output/snake.svg" alt="Snake animation" />
+
+
 
 ###
